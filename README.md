@@ -22,19 +22,20 @@ This is a modern React-based UI component inspired by Amazon product cards. It i
 - JavaScript
 
 📁 Folder Structure
-amazon-cards/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── ProductCard.jsx
-│   ├── App.js
-│   ├── index.js
-│   └── styles/
-│       └── ProductCard.css
-├── .gitignore
-├── package.json
-└── README.md
+
+  amazon-cards/
+  ├── public/
+  │   └── index.html
+  ├── src/
+  │   ├── components/
+  │   │   └── ProductCard.jsx
+  │   ├── App.js
+  │   ├── index.js
+  │   └── styles/
+  │       └── ProductCard.css
+  ├── .gitignore
+  ├── package.json
+  └── README.md
 
 ⚙️ Installation
 Clone the repository:
